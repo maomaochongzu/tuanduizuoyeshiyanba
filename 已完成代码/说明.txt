@@ -1,0 +1,3 @@
+此部分代码为：公共类设计部分，分别为:DataCon类和DataOperate类。
+DataCon类：用来访问SQL server数据库并且执行基本的SQL语句。
+DataOperate类：调用SQL存储过程、执行数据验证、数据控件绑定图标的绘制等功能。
